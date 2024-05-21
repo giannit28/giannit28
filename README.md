@@ -16,17 +16,7 @@ Hello! I'm Gianni Thomas, a passionate full-stack developer with a knack for bui
 
 ## 🏆 Top Projects
 
-### 1. [Project Name](https://github.com/yourusername/projectname)
-A brief description of your project, highlighting its features and technologies used.
-
-- **Tech Stack:** ReactJS, NodeJS, MySQL
-- **Features:** Responsive design, RESTful API, User authentication
-
-### 2. [Project Name](https://github.com/yourusername/projectname)
-A brief description of another project, emphasizing its uniqueness and your role.
-
-- **Tech Stack:** Golang, MariaDB, Docker
-- **Features:** Microservices architecture, CI/CD integration, Scalable backend
+### 1. [Project Name](https://github.com/giannit28/Noel/)
 
 ## 📫 Contact Me
 
