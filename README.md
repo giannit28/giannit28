@@ -12,7 +12,7 @@ Hello! I'm Gianni Thomas, a passionate full-stack developer with a knack for bui
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![giannit2804's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 Top Projects
 
