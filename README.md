@@ -16,13 +16,11 @@ Hello! I'm Gianni Thomas, a passionate full-stack developer with a knack for bui
 
 ## 🏆 Top Projects
 
-### 1. [Project Name](https://github.com/giannit28/Noel/)
+### 1. [Hotel tariff Input](https://github.com/giannit28/Noel/)
 
 ## 📫 Contact Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **Email:** [thomasg2804@gmail.com](mailto:thomasg2804@gmail.com)
 
 ## 🌟 Let's Connect!
 
