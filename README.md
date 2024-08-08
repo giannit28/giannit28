@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Repository! 🌟
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=3C8DBC&width=435&lines=Full-Stack+Developer;ReactJS+%7C+NodeJS+%7C+Golang+%7C+Python;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=3C8DBC&width=435&lines=Full-Stack+Developer;ReactJS+%7C+NextJS+%7C+NodeJS+%7C+Golang+%7C+Python;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 Hello! I'm Gianni Thomas, a passionate full-stack developer with a knack for building robust web applications using the latest technologies.
 
